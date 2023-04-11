@@ -1,0 +1,12 @@
+---------------------------------------- ĐÓNG GÓI ---------------------------------------
+tính chất đóng gói là đặc trưng của phương pháp lập trình hướng đối tượng - không cho phép người dùng hay các đối tượng truy xuất trực tiếp để thay đổi dữ liệu của lớp nội tại.
+1. PUBLIC: Phạm vi hoạt động bên trong và bên ngoài class và trên toàn bộ chương trình.
+2. PRIVATE: có phạm vi hoạt động trong class nội tại, không được truy xuất bên ngoài class.
+3. PROTECTED: có phạm vi hoạt động bên trong class nội tại và các class kế thừa từ nó.
+đặc điểm tính chất đóng gói: 
+1. tạo ra cơ chế ngăn ngừa việc gọi phương thức của lớp này tác động hay truy xuất dữ liệu của đối tượng thuộc lớp khác.
+2. Người lập trình có thể dựa vào cơ chế này để ngăn ngừa việc gán giá trị không hợp lệ vào thành phần dữ liệu của mỗi đối tượng.
+----------------------------------------- TRỪU TƯỢNG -------------------------------------
+Tính chất trừu tượng là quá trình chúng ta đơn giản hóa một đối tượng 
++ Xác định các thuộc tính và phương thức cần thiết của một đối tượng đó để đáp ứng cái yêu cầu cần thiết của chương trình tại thời điểm hiện tại.
++ sàng lọc ra các tính chất và hành vi cốt lõi của đối tượng. 
